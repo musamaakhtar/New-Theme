@@ -20,7 +20,7 @@ export default function Sixth() {
                <img src={ImgUD} alt="" />
               </div>
               <div className='h-[50%] w-[100%] border-2 border-white'>
-              <h1 className='text-white text-center -ml-6  font-bold font-mono text-2xl mt-6'>Usama Rajpoot</h1>
+              <h1 className='text-white text-xl text-center -ml-6  font-bold font-mono md:text-2xl mt-6'>Usama Rajpoot</h1>
               <h1 className='text-white ml-8  font-mono mt-2'>Web & App Develpor</h1>
               <div className='flex text-white w-[70%] ml-4 mt-10 justify-evenly text-lg cursor-pointer'>
                  <FaFacebookF className='hover:text-gray-400'/>
